@@ -9,11 +9,6 @@ Md. Rakibul Islam
 
 This simple c++ program takes INFIX expression as input.
 And output it's equivalent POSTFIX expression.
-Then uses POSTFIX expression to evaluate it's value.
+Then uses the POSTFIX expression to evaluate it's value.
 
-
-User defined Stack is used here
-pushStcak();
-popStcak(); 
-etc. is used to implement stack operation...
 
